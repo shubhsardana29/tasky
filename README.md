@@ -21,7 +21,7 @@ A RESTful API for managing tasks built with Express and TypeScript.
 
 ### Hosted Link
 
-- 
+- https://tasky-drtu.onrender.com
 
 ### API Documentation 
 -  https://elements.getpostman.com/redirect?entityId=26061145-1e247b29-761c-435b-b3fd-d2f45a5d0d93&entityType=collection
